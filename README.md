@@ -19,7 +19,9 @@ Laravel9.1 & vue3 project
 7. Run `php artisan migrate`
 8. Run `php artisan db:seed`
 9. Run `npm install`
-10. Run `npm run dev`
+10. Run `npm run build`
+11. Run `php artisan serve`
+12. Open http://localhost:8000/
 ```
 ## Screenshots
 ### 1. Report 1
